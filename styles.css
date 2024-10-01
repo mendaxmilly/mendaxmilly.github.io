@@ -18,7 +18,7 @@ h2 {
     padding: 10px;
     transform: translateX(85%);
     border: 1px solid #EB6305;
-    background-color: rgb(0, 0, 0);
+    background-color: #EB6305(0, 0, 0);
     font-family:'Courier New';
 }
 .about {
@@ -31,6 +31,7 @@ h2 {
 
 .projects {
     background: #05EB0D;
+    
 }
 
 .contact {
